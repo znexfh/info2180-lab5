@@ -1,1 +1,39 @@
 /* Add your own styles */
+h1{
+    background-color: #1c2386;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+img{
+    height: 120px;
+    width: 120px;
+    border-radius: 100px;  
+}
+
+label{
+    font-size: 24px;
+    font-family: cursive;
+}
+
+button{
+    font-size: 24px;
+    font-family: cursive;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #97ceee;
+}
+
+input{
+    font-size: 24px;
+    font-family: cursive;
+}
+
+#result{
+    font-size: 18px;
+    font-family: cursive;
+}

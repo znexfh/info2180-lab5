@@ -20,12 +20,23 @@ label{
     font-family: cursive;
 }
 
-button{
+#lookup{
     font-size: 24px;
     font-family: cursive;
     padding-left: 15px;
     padding-right: 15px;
     background-color: #97ceee;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+
+#cities{
+    font-size: 24px;
+    font-family: cursive;
+    padding-left: 18px;
+    padding-right: 18px;
+    background-color: #256c96;
+    margin-top: 15px;
 }
 
 input{
